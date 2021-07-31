@@ -1,5 +1,5 @@
 import axios from 'axios';
-const API_URL = 'http://localhost:8000';
+const API_URL = 'http://172.31.7.254:8000';
 
 export default class EmpresasService{
 
